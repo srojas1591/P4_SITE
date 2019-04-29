@@ -1,0 +1,5 @@
+c:\users\sroja\onedrive\documents\visual studio 2015\Projects\Examen_Ampliacion_Site\DAL\bin\Debug\DAL.dll
+c:\users\sroja\onedrive\documents\visual studio 2015\Projects\Examen_Ampliacion_Site\DAL\bin\Debug\DAL.pdb
+c:\users\sroja\onedrive\documents\visual studio 2015\Projects\Examen_Ampliacion_Site\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\users\sroja\onedrive\documents\visual studio 2015\Projects\Examen_Ampliacion_Site\DAL\obj\Debug\DAL.dll
+c:\users\sroja\onedrive\documents\visual studio 2015\Projects\Examen_Ampliacion_Site\DAL\obj\Debug\DAL.pdb

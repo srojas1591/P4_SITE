@@ -1,0 +1,5 @@
+c:\users\sroja\onedrive\documents\visual studio 2015\Projects\Examen_Ampliacion_Site\BLL\bin\Debug\BLL.dll
+c:\users\sroja\onedrive\documents\visual studio 2015\Projects\Examen_Ampliacion_Site\BLL\bin\Debug\BLL.pdb
+c:\users\sroja\onedrive\documents\visual studio 2015\Projects\Examen_Ampliacion_Site\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+c:\users\sroja\onedrive\documents\visual studio 2015\Projects\Examen_Ampliacion_Site\BLL\obj\Debug\BLL.dll
+c:\users\sroja\onedrive\documents\visual studio 2015\Projects\Examen_Ampliacion_Site\BLL\obj\Debug\BLL.pdb
